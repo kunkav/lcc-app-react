@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "lcc-app-react",
+    "slug": "lcc-app-react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "lcc-app-react"
+}
