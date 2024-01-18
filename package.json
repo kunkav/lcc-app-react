@@ -9,10 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@aws-amplify/ui-react": "^6.1.1",
     "@expo/webpack-config": "^19.0.1",
     "@types/react": "~18.2.14",
-    "aws-amplify": "^6.0.12",
     "expo": "~49.0.18",
     "expo-splash-screen": "~0.20.5",
     "expo-status-bar": "~1.6.0",
